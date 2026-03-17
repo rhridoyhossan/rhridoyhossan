@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rhridoyhossan/rhridoyhossan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=rhridoyhossan&color=0e75b6&style=flat-square&label=Profile+Views)
 
-Here are some ideas to get you started:
+# Ridoy Hossan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full-Stack Developer · MERN · Next.js · TypeScript**
+
+*Turning "what if" into "it works"*
+
+</div>
+
+---
+
+### About
+
+Full-stack developer focused on the JavaScript / TypeScript ecosystem. Currently a CSE student at **Leading University, Sylhet** (Batch 68 · Spring '26), building real-world projects while studying fundamentals. Actively exploring **AI / ML** integrations and how intelligent systems fit into modern web products.
+
+---
+
+### Currently
+
+- &nbsp;Building full-stack apps with **Next.js** + **TypeScript**
+- &nbsp;Exploring **AI/ML** concepts and integrating LLMs into projects
+- &nbsp;Deepening CS fundamentals alongside practical development
+
+---
